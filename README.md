@@ -1,4 +1,4 @@
-# Módulo de Pagamento PagSeguro Plus - OpenCart 2x, 3x
+# Frete Correios Plus - OpenCart 2x, 3x
 Módulo de Frete Correios Plus para lojas OpenCart para efetuar a cotação de serviços de frete e prazo no sistema dos Correios diretamente na sua loja.
 
 #### Funcionalidades:
