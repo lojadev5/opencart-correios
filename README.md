@@ -27,7 +27,7 @@ Módulo de Frete Correios Plus para lojas OpenCart para efetuar a cotação de s
 - Código 100% original
 
 ##### Adquira sua licença:
-- [Módulo Frete Correios Plus - R$ 37,80 em dev5.com.br](https://dev5.com.br/opencart/fretes/correios)
+- [Módulo Frete Correios Plus - R$ 38,25 em dev5.com.br](https://dev5.com.br/opencart/fretes/correios)
 
 ##### Changelog:
 - [Registro de Alterações Módulo Frete Correios Plus](https://dev5.com.br/opencart/fretes/correios#changelog)
