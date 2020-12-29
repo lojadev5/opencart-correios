@@ -1,5 +1,5 @@
-# Frete Correios Plus - OpenCart 2x, 3x
-Módulo de Frete Correios Plus para lojas OpenCart para efetuar a cotação de serviços de frete e prazo no sistema dos Correios diretamente na sua loja.
+# Módulo Frete Correios Plus - OpenCart 2x, 3x, 4x
+Módulo de Frete Correios Plus para lojas OpenCart para efetuar a cotação de serviços de frete e prazo no sistema dos Correios diretamente na sua loja. Compatível com OpenCart 2.x, 3.x, 4.x
 
 #### Funcionalidades:
 - Resolução Knapsack Problem (Trabalha com dimensões reais das caixas)
@@ -15,7 +15,7 @@ Módulo de Frete Correios Plus para lojas OpenCart para efetuar a cotação de s
 - Utiliza a instalação padrão do OpenCart (OCMod)
 
 ##### Compatibilidade:
-|2.0.x|2.1.x|2.2.x|2.3.x|3.0.x|3.1.x|
+|2.0.x|2.1.x|2.2.x|2.3.x|3.0.x|4.0.x|
 |-|-|-|-|-|-|
 
 ##### Outras informações:
@@ -28,6 +28,7 @@ Módulo de Frete Correios Plus para lojas OpenCart para efetuar a cotação de s
 
 ##### Adquira sua licença:
 - [Módulo Frete Correios Plus - R$ 38,25 em dev5.com.br](https://dev5.com.br/opencart/fretes/correios)
+- [Módulo Frete Correios Plus - R$ 50,00 em mercadolivre.com.br](https://produto.mercadolivre.com.br/MLB-1751534687-modulo-frete-correios-plus-opencart-2x3x4x-dev5-_JM)
 
 ##### Changelog:
 - [Registro de Alterações Módulo Frete Correios Plus](https://dev5.com.br/opencart/fretes/correios#changelog)
